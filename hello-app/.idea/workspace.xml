@@ -43,13 +43,14 @@
   "keyToString": {
     "Application.HelloApp (1).executor": "Run",
     "Application.HelloApp (2).executor": "Run",
+    "Application.HelloApp (3).executor": "Run",
     "Application.HelloApp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "feature/UC4-display-multiple-names",
+    "git-widget-placeholder": "feature/UC5-enhanced-for-loop",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/HP/IdeaProjects/Hello-App/hello-app/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Project",
@@ -58,7 +59,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HelloApp (2)">
+  <component name="RunManager" selected="Application.HelloApp (3)">
     <configuration name="HelloApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloApp" />
       <module name="hello-app" />
@@ -68,6 +69,14 @@
       </method>
     </configuration>
     <configuration name="HelloApp (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloApp" />
+      <module name="hello-app" />
+      <option name="PROGRAM_PARAMETERS" value="Sravya" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloApp (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloApp" />
       <module name="hello-app" />
       <option name="PROGRAM_PARAMETERS" value="Sravya" />
@@ -85,6 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloApp (3)" />
         <item itemvalue="Application.HelloApp (2)" />
         <item itemvalue="Application.HelloApp (1)" />
         <item itemvalue="Application.HelloApp" />
