@@ -7,7 +7,6 @@
     <list default="true" id="fbf91152-532f-4e9c-8dcb-208a8284ed6b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/HelloApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HelloApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HelloApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/HelloApp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../helloapp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../helloapp/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +50,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "feature/UC6-substring-method",
+    "git-widget-placeholder": "feature/UC7-string-join",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/HP/IdeaProjects/Hello-App/hello-app/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Project",
@@ -60,7 +59,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HelloApp (4)">
+  <component name="RunManager" selected="Application.HelloApp (5)">
     <configuration name="HelloApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloApp" />
       <module name="hello-app" />
@@ -93,21 +92,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="HelloApp (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloApp" />
       <module name="hello-app" />
-      <option name="PROGRAM_PARAMETERS" value="Sravya" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloApp (5)" />
         <item itemvalue="Application.HelloApp (4)" />
         <item itemvalue="Application.HelloApp (3)" />
         <item itemvalue="Application.HelloApp (2)" />
         <item itemvalue="Application.HelloApp (1)" />
-        <item itemvalue="Application.HelloApp" />
       </list>
     </recent_temporary>
   </component>
